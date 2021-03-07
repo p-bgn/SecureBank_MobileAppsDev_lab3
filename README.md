@@ -70,22 +70,18 @@ but in the end, maybe better than a non-practical app.
 
 ### Application Screenshots ONLINE
 ![](Screenshots/OnlineMain.png)
+![](Screenshots/OnlineLogin.png)
+![](Screenshots/OnlineFingerPrint.png)
+![](Screenshots/OnlineAccounts.png)
 
 
 
 
 ### Application Screenshots OFFLINE
-
-
-
-
-
-
-
-
-
-
-
+![](Screenshots/OfflineMain.png)
+![](Screenshots/OfflineLogin.png)
+![](Screenshots/OfflineFingerPrint.png)
+![](Screenshots/OfflineAccounts.png)
 
 
 
