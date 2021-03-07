@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecureBank</string>
+    <string name="urlsetup_page">URLs</string>
+    <string name="login_page">Login</string>
+    <string name="accounts_page">Accounts</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="id">ID</string>
+    <string name="configUrl">Config URL</string>
+    <string name="accountsUrl">Accounts URL</string>
+
+    <string name="action_settings">Action Settings</string>
+    <string name="first_fragment_label">Action Settings</string>
+    <string name="second_fragment_label">Action Settings</string>
+
+
+</resources>
